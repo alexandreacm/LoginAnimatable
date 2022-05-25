@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "LoginAnimatable",
+    "slug": "LoginAnimatable",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
